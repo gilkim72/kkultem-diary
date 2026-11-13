@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="꿀단지가 담긴 장바구니">
+  <circle cx="100" cy="100" r="100" fill="#FFE6EE"/>
+  <circle cx="100" cy="100" r="88" fill="#FFF3F6"/>
+  <!-- sparkles -->
+  <path d="M38 62 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z" fill="#FFC94A"/>
+  <path d="M160 48 l2 6 6 2 -6 2 -2 6 -2 -6 -6 -2 6 -2z" fill="#9DB4FF"/>
+  <circle cx="150" cy="84" r="3" fill="#FFC94A"/>
+  <!-- floating heart -->
+  <path d="M146 112 c0-7 9-9 12-3 c3-6 12-4 12 3 c0 8-12 14-12 14 s-12-6-12-14z" fill="#FF6F9A"/>
+  <!-- basket handle -->
+  <path d="M52 112 C52 62 148 62 148 112" fill="none" stroke="#D9914A" stroke-width="9" stroke-linecap="round"/>
+  <!-- honey jar -->
+  <rect x="70" y="70" width="60" height="62" rx="20" fill="#FFC94A"/>
+  <rect x="78" y="80" width="10" height="30" rx="5" fill="#FFE29A"/>
+  <path d="M72 84 q28 10 56 0 v10 q-28 10 -56 0z" fill="#FFB020" opacity=".55"/>
+  <!-- gingham lid cloth -->
+  <path d="M64 70 q36 -16 72 0 l-4 10 q-32 -10 -64 0z" fill="#FF8FB1"/>
+  <path d="M74 66 l4 12 M90 62 l2 13 M108 62 l-1 13 M124 65 l-3 12" stroke="#FFD0DE" stroke-width="3" stroke-linecap="round"/>
+  <path d="M95 74 q-9 -8 -12 2 q8 4 12 -2z M105 74 q9 -8 12 2 q-8 4 -12 -2z" fill="#FF6F9A"/>
+  <circle cx="100" cy="74" r="4" fill="#FF6F9A"/>
+  <!-- cute face -->
+  <circle cx="90" cy="100" r="3.6" fill="#5A3A1E"/>
+  <circle cx="110" cy="100" r="3.6" fill="#5A3A1E"/>
+  <circle cx="91.2" cy="98.8" r="1.1" fill="#fff"/>
+  <circle cx="111.2" cy="98.8" r="1.1" fill="#fff"/>
+  <ellipse cx="83" cy="108" rx="5" ry="3" fill="#FF8FB1" opacity=".7"/>
+  <ellipse cx="117" cy="108" rx="5" ry="3" fill="#FF8FB1" opacity=".7"/>
+  <path d="M95 106 q5 5 10 0" fill="none" stroke="#5A3A1E" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- basket body -->
+  <path d="M44 114 h112 l-12 46 q-2 8 -10 8 h-68 q-8 0 -10 -8z" fill="#F2B66D"/>
+  <path d="M52 132 h96 M56 148 h88" stroke="#D9914A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72 116 v50 M100 116 v52 M128 116 v50" stroke="#E5A25A" stroke-width="3" stroke-linecap="round"/>
+  <rect x="38" y="108" width="124" height="14" rx="7" fill="#E39B52"/>
+  <rect x="46" y="111" width="30" height="4" rx="2" fill="#F7C98F"/>
+</svg>
