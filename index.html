@@ -78,9 +78,9 @@ button,input,select,textarea{font:inherit;color:inherit}
 @keyframes flash{0%,40%{box-shadow:0 0 0 3px var(--accent)}100%{box-shadow:0 0 0 0 transparent}}
 .thumb{aspect-ratio:3/4;max-width:100%;background:#fff;display:grid;place-items:center;overflow:hidden}
 .thumb img{width:100%;height:100%;object-fit:contain;background:#fff}
-/* Match the original square photos to the full-height 002 card. */
-.card[data-n="15"] .thumb,.card[data-n="1"] .thumb{position:relative}
-.card[data-n="15"] .thumb img,.card[data-n="1"] .thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center}
+/* Approved diary card photo standard: every item fills a 3:4 frame. */
+.card .thumb{position:relative;flex-shrink:0}
+.card .thumb img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center}
 .ph{width:100%;height:100%;display:grid;place-items:center;background:var(--soft);color:var(--soft-ink);font-family:var(--f-num);font-size:38px}
 .meta{display:flex;flex-direction:column;gap:2px;padding:9px 11px 11px}
 .meta .no{font-family:var(--f-num);font-size:15px;color:var(--accent);letter-spacing:.02em}
